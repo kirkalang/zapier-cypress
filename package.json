@@ -1,0 +1,22 @@
+{
+  "name": "zapier-cypress",
+  "version": "1.0.0",
+  "description": "cypress e2e scripts for zapier",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirkalang/zapier-cypress.git"
+  },
+  "author": "Kirk A Lang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirkalang/zapier-cypress/issues"
+  },
+  "homepage": "https://github.com/kirkalang/zapier-cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
